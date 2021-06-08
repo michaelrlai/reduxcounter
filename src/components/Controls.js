@@ -9,7 +9,7 @@ const Controls = () => {
     <div className="mt-3">
       <button
         type="button"
-        className="btn btn-success"
+        className="btn btn-success me-3"
         onClick={() => dispatch(increment())}
       >
         Increment
